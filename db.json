@@ -6,19 +6,7 @@
     },
     {
       "id": 2,
-      "enunciado": "Qual das opções abaixo está correta?"
-    },
-    {
-      "id": 3,
-      "enunciado": "Qual das opções abaixo está correta?"
-    },
-    {
-      "id": 4,
-      "enunciado": "Qual das opções abaixo está correta?"
-    },
-    {
-      "id": 5,
-      "enunciado": "Qual das opções abaixo está correta?"
+      "enunciado": "Em uma linguagem de programação, os tipos primitivos de dados"
     }
   ],
   "respostas": [
@@ -46,6 +34,31 @@
       "id": 5,
       "descricao": "Linguagem de montagem, Prolog, linguagem de máquina, C, SQL.",
       "questaoId": 1
+    },
+    {
+      "id": 6,
+      "descricao": "São sempre verificados pelo compilador. Caso se extrapole a capacidade do tipo, um erro ocorre e o programa é abortado.",
+      "questaoId": 2
+    },
+    {
+      "id": 7,
+      "descricao": "Mais comuns e mais utilizados são as matrizes e os registros.",
+      "questaoId": 2
+    },
+    {
+      "id": 8,
+      "descricao": "São associados a um descritor. Um descritor é uma estrutura de dados, que não ocupa espaço na memória, que armazena os atributos do tipo de dados.",
+      "questaoId": 2
+    },
+    {
+      "id": 9,
+      "descricao": "na forma de caracteres geralmente são armazenados como codificações numéricas, como o padrão UTF.",
+      "questaoId": 2
+    },
+    {
+      "id": 10,
+      "descricao": "Inteiros são sempre representados como uma cadeia de caracteres. O caracter mais à esquerda representa o sinal positivo ou negativo.",
+      "questaoId": 2
     }
   ]
 }
