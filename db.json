@@ -1,0 +1,51 @@
+{
+  "questao": [
+    {
+      "id": 1,
+      "enunciado": "As linguagens de programação de Computador evoluíram, enfatizando o aspecto da aplicação ao longo dos anos. Assinale a alternativa que apresenta a ordem crescente correta dessa evolução."
+    },
+    {
+      "id": 2,
+      "enunciado": "Qual das opções abaixo está correta?"
+    },
+    {
+      "id": 3,
+      "enunciado": "Qual das opções abaixo está correta?"
+    },
+    {
+      "id": 4,
+      "enunciado": "Qual das opções abaixo está correta?"
+    },
+    {
+      "id": 5,
+      "enunciado": "Qual das opções abaixo está correta?"
+    }
+  ],
+  "respostas": [
+    {
+      "id": 1,
+      "descricao": "Linguagem de máquina, linguagens de montagem, C, SQL, Prolog.",
+      "questaoId": 1
+    },
+    {
+      "id": 2,
+      "descricao": "Linguagem de máquina, C, SQL, Prolog, linguagens de montagem.",
+      "questaoId": 1
+    },
+    {
+      "id": 3,
+      "descricao": "Linguagem de máquina, SQL, Prolog, linguagens de montagem, C.",
+      "questaoId": 1
+    },
+    {
+      "id": 4,
+      "descricao": "Linguagem de montagem, C, linguagem de máquina, SQL, Prolog.",
+      "questaoId": 1
+    },
+    {
+      "id": 4,
+      "descricao": "Linguagem de montagem, Prolog, linguagem de máquina, C, SQL.",
+      "questaoId": 1
+    }
+  ]
+}
